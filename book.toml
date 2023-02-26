@@ -1,0 +1,11 @@
+[book]
+authors = ["Ronak Paul"]
+language = "en"
+multilingual = false
+src = "src"
+title = "100 Days of DSA"
+
+[output.html]
+mathjax-support = true
+site-url = "/"
+git-repository-url = "https://github.com/ronak-pal1/100DaysOfDSA"
